@@ -16,7 +16,7 @@ async function plate(id) {
         }
         
         body {
-            background: linear-gradient(to right, #90071e, #1b042c);
+            background: linear-gradient(to right, #1a14b8, #000000);
             font-family: "Roboto Mono", sans-serif;
             margin: 0;
             color: #fff;
