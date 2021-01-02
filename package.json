@@ -1,0 +1,24 @@
+{
+    "name": "telegram-subs-counter",
+    "version": "1.0.0",
+    "description": "Live Telegram Subscribers count for telegram with Socket.io",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/telegram-subs-counter.git"
+    },
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/telegram-subs-counter/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/telegram-subs-counter#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "express": "^4.17.1",
+        "socket.io": "^3.0.4"
+    }
+}

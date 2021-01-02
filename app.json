@@ -1,0 +1,17 @@
+{
+    "name": "telegram-subs-counter",
+    "description": "Live Telegram Subscribers count for telegram with Socket.io",
+    "repository": "https://github.com/cachecleanerjeet/telegram-subs-counter",
+    "logo": "https://telegra.ph/file/d32f2537e7e0a7e5fd9fd.png",
+
+    "env": {
+        "BOT_API_KEY": {
+            "description": "Telegram Bot's API Key",
+            "value": ""
+        },
+        "USERNAME": {
+            "description": "Telegram channel's username. Don't give '@'",
+            "value": "tprojects"
+        }
+    }
+}
